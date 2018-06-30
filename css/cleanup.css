@@ -6,3 +6,7 @@
 div#tag-2{
 
 }
+
+#wall .tag-3 {
+  display: none;
+}
