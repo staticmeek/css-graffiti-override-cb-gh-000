@@ -3,10 +3,7 @@
   display: none;
 }
 
-div ~ div {
+#tag-2 {
   display: none;
 }
 
-#div.tag-2{
-  display: none;
-}
